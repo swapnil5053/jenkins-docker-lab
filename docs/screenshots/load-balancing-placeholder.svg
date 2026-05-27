@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+  <rect width="900" height="260" fill="#009639" rx="20"/>
+  <text x="50" y="70" fill="#ffffff" font-family="Arial" font-size="28" font-weight="bold">Load Balancing Demo Screenshot Placeholder</text>
+  <text x="50" y="120" fill="#ffffff" font-family="Arial" font-size="18">Capture backend hostname switching and request counters here.</text>
+</svg>

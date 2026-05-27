@@ -1,0 +1,12 @@
+FROM jenkins/jenkins:lts
+
+USER root
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+      docker.io \
+      make \
+      g++ \
+      curl && \
+    rm -rf /var/lib/apt/lists/*
+
+USER jenkins

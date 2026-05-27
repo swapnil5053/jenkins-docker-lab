@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+  <rect width="900" height="260" fill="#0b3d91" rx="20"/>
+  <text x="50" y="70" fill="#ffffff" font-family="Arial" font-size="28" font-weight="bold">Architecture Diagram Placeholder</text>
+  <text x="50" y="120" fill="#ffffff" font-family="Arial" font-size="18">Developer → Jenkins → Docker Compose → NGINX → Backend Cluster</text>
+  <text x="50" y="170" fill="#ffffff" font-family="Arial" font-size="16">Drop in a visual screenshot or replace with generated architecture artwork.</text>
+</svg>

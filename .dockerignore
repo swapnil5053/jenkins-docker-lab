@@ -1,0 +1,46 @@
+# Git files
+.git
+.gitignore
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile
+
+# Documentation
+README.md
+docs/
+*.md
+
+# Development
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# Build artifacts
+build/
+dist/
+*.o
+a.out
+
+# OS
+.DS_Store
+.DS_Store?
+
+# Dependencies (for C++ builds)
+.conan/
+
+# Node/npm (if any frontend)
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Temporary
+tmp/
+temp/

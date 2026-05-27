@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+  <rect width="900" height="260" fill="#d24939" rx="20"/>
+  <text x="50" y="70" fill="#ffffff" font-family="Arial" font-size="28" font-weight="bold">Jenkins Pipeline Screenshot Placeholder</text>
+  <text x="50" y="120" fill="#ffffff" font-family="Arial" font-size="18">Use this area for a pipeline run screenshot in future documentation.</text>
+</svg>

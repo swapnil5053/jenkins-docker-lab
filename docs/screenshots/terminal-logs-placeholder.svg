@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260">
+  <rect width="900" height="260" fill="#222222" rx="20"/>
+  <text x="50" y="70" fill="#49d049" font-family="Consolas, monospace" font-size="24" font-weight="bold">Terminal Logs Placeholder</text>
+  <text x="50" y="120" fill="#cccccc" font-family="Consolas, monospace" font-size="16">This area is reserved for terminal examples and demo commands.</text>
+</svg>
